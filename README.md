@@ -2,7 +2,7 @@
 CUHacking Hackathon Event January 11, 2020
 
 Date: January 11, 2020
-Team members: Andy, Brenda, Luis, Navady
+Team members: Andy, Brenda, Luis, Navaty
 
 PSEUDOCODE FOR THE UNO PROJECT
 
